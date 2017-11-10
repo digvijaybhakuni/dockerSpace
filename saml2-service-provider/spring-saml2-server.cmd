@@ -1,0 +1,1 @@
+docker run -it --rm -p 9992:8080 -t vdenotaris/spring-saml-sp:1.8.0-mvn-jdk8
